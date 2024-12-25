@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-
 import { zmsk导航 } from './导航'
 import { zmsk侧边栏合集 } from './侧边栏'
 
@@ -27,12 +26,13 @@ export default defineConfig({
     
     nav: zmsk导航,
     sidebar: zmsk侧边栏合集,
-        footer: {
+    footer: {
       message: 'ICP备案号：<a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备19045526号-4</a>',
       copyright: '版权 © 2024 <a href="https://zmsk.co/" target="_blank">子沐时空</a>'
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/holdlg/zmsk' }
-    ]
+    ],
   },
+
 })
