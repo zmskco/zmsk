@@ -31,7 +31,7 @@ export default defineConfig({
       copyright: '版权 © 2024 <a href="https://zmsk.co/" target="_blank">子沐时空</a>'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/holdlg/zmsk' }
+      { icon: 'github', link: 'https://github.com/zmskco/zmsk' }
     ],
   },
 
