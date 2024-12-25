@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "子沐时空"
   text: "zmsk.co"
-  tagline: 旧时代的思想解构不了现代人的灵魂
+  tagline: 旧的思想无法解构新的灵魂
   image:
     src: /wrqd.png
     alt: 子沐时空
