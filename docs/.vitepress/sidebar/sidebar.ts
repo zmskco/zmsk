@@ -7,7 +7,7 @@ interface SidebarI {
   docs: Array<string>
 }
 
-class ZmskSidebar {
+class SidebarGenerate {
   sidebarArgs: Array<SidebarI> = []
 
   constructor(sidebarArgs: Array<SidebarI>) {
@@ -28,4 +28,4 @@ class ZmskSidebar {
 
 }
 
-export { ZmskSidebar, SidebarI }
+export { SidebarGenerate, SidebarI }
