@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 📱 开始阅读
-      link: /木兰星系/人物传记/温仁千代
+      link: /木兰/巴山夜雨/序言
     - theme: alt
       text: 🦄 关于
       link: /about
