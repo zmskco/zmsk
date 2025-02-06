@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "子沐时空"
   text: "zmsk.co"
-  tagline: 旧思想无法解构新灵魂
+  tagline: 旧思想无法解构新人类的灵魂
   image:
     src: /wrqd.png
     alt: 子沐时空
@@ -18,11 +18,13 @@ hero:
       link: /about
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 文明
+    details: 生物体，元素体，机械体，玄立体
+  - title: 科学
+    details: 人工进化，天体，星际，宇宙冒险
+  - title: 奇幻
+    details: 万物场，元气道，元灵周期，万象术，衍天术
+  - title: 元灵器
+    details: 信可乐，非方物，对之空，量子心
 ---
 
