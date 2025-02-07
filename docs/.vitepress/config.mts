@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { zmskStainPlugin } from './plugin/zmskStain';
 import { zmskNavigation } from './navigation'
 import { zmskSidebar } from './sidebar'
 
@@ -34,5 +35,11 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zmskco/zmsk' }
     ],
-  }
+  },
+
+  markdown: {
+    config: (md) => {
+      md.use(zmskStainPlugin);
+    },
+  },
 })
