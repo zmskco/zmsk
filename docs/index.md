@@ -11,8 +11,11 @@ hero:
     alt: 子沐时空
   actions:
     - theme: brand
-      text: 📱 开始阅读
+      text: 🔥 巴山夜雨
       link: /木兰/巴山夜雨/序言
+    - theme: brand
+      text: 💯 温仁千代
+      link: /木兰/温仁千代/序言
     - theme: alt
       text: 🦄 关于
       link: /about
