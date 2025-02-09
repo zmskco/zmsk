@@ -10,6 +10,10 @@ export default defineConfig({
   titleTemplate: ':title | zmsk.co',
   lang: 'zh-CN',
   lastUpdated: true,
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { href: 'https://cdnjs.sgcd.net/lxgw-wenkai-screen-webfont/lxgwwenkaigbscreen.css', rel: 'stylesheet' } ]
+  ],
   // appearance: 'dark', // dark
 
   themeConfig: {
