@@ -7,9 +7,12 @@ hero:
   text: "zmsk.co"
   tagline: 旧思想无法解构新人类的灵魂
   image:
-    src: /wrqd.png
+    src: /zmsk-mlxx.png
     alt: 子沐时空
   actions:
+    - theme: brand
+      text: 🪶 良义无双
+      link: /木兰/良义无双/序言
     - theme: brand
       text: 🔥 巴山夜雨
       link: /木兰/巴山夜雨/序言

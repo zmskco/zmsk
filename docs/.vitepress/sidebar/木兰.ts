@@ -65,6 +65,28 @@ const zmsk木兰巴山夜雨: Array<SidebarI> = [
       '第2章 生命之地',
       '第3章 求援',
       '第4章 重逢与离别',
+      '第5章 花神千代',
+      '第6章 雨燕系统',
+      '第7章 王者风范',
+      '第8章 低低低配版',
+      '第9章 阿夜工坊',
+      '第10章 重回赤羽峰',
+      '第11章 成与不成',
+      '第12章 终局之战',
+      '第13章 脉冲声呐',
+    ]
+  }
+]
+
+const zmsk木兰良义无双: Array<SidebarI> = [
+  {
+    title: '良义无双',
+    baseLink: '/木兰/良义无双/',
+    collapsible: true,
+    collapsed: false,
+    docs: [
+      '序言',
+      
     ]
   }
 ]
@@ -89,6 +111,7 @@ const zmsk木兰概览侧边栏 = new SidebarGenerate(zmsk木兰概览).setSideb
 const zmsk木兰子与沐侧边栏 = new SidebarGenerate(zmsk木兰子与沐).setSidebar()
 const zmsk木兰温仁千代侧边栏 = new SidebarGenerate(zmsk木兰温仁千代).setSidebar()
 const zmsk木兰巴山夜雨侧边栏 = new SidebarGenerate(zmsk木兰巴山夜雨).setSidebar()
+const zmsk木兰良义无双侧边栏 = new SidebarGenerate(zmsk木兰良义无双).setSidebar()
 
 
 
@@ -97,4 +120,5 @@ export {
   zmsk木兰子与沐侧边栏,
   zmsk木兰温仁千代侧边栏,
   zmsk木兰巴山夜雨侧边栏,
+  zmsk木兰良义无双侧边栏,
 }

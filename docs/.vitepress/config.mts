@@ -33,8 +33,8 @@ export default defineConfig({
     sidebar: zmskSidebar,
 
     footer: {
-      message: 'ICP备案号：<a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备19045526号-4</a>',
-      copyright: '版权 © 2025 <a href="https://zmsk.co/" target="_blank">子沐时空</a>'
+      message: '<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41031102000596" target="_blank">豫公网安备41031102000596号</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备19045526号-4</a>',
+      copyright: '版权 © 2024-2025 <a href="https://zmsk.co/" target="_blank">子沐时空</a>'
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zmskco/zmsk' }
