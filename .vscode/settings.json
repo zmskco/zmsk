@@ -1,0 +1,35 @@
+{
+  "editor.fontSize": 20,
+  "editor.fontFamily": "'Cascadia Code',霞鹜漫黑,Consolas, 'Courier New', monospace",
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "none",
+  "zmskWriteHelper.core": [
+    "王子"
+  ],
+  "zmskWriteHelper.main": [
+    "千代",
+    "子平",
+    "子安",
+    "筱筱",
+    "白月",
+    "夜雨",
+  ],
+  "zmskWriteHelper.galaxy": [
+    "木兰星系",
+    "木叶",
+    "木叶星",
+    "木叶星球",
+    "木卫",
+    "周家村",
+    "商家庄",
+    "巴山现代城"
+  ],
+  "zmskWriteHelper.secondary": [
+    "老周",
+    "小周",
+    "云帆"
+  ],
+  "zmskWriteHelper.extras": [
+  "老商",
+  ]
+}
